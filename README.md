@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I%E2%80%98m+Jaocb-biu%E2%9C%A8;Here+you+are%F0%9F%98%98;console.log(%22Hello+World!%22);Welcome+to+my+homepage%F0%9F%98%89" alt="Typing SVG" /></a>
 </div>
 
-### 🧠 Languages and Tools:
+<h3 align="center"> 🧠 Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
