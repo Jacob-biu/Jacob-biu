@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🧠 Languages and Tools:</h3>
 
-<p align="center" style="
+<p style="
   display: flex;       /* 开启弹性布局 */
   flex-wrap: wrap;     /* 自动换行 */
   gap: 8px;            /* 图标之间的间距，可改 */
